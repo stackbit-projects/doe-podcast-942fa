@@ -11,7 +11,7 @@ sections:
       - label: Subscribe to Podcast
         url: /thank-you
         style: primary
-    image: images/about.png
+    image: images/DOE direct current-83a35c9e.jpeg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty

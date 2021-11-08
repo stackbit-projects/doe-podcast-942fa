@@ -8,7 +8,7 @@ categories:
   - src/data/categories/season-2.yaml
 thumb_image: images/BBrewing Up Energy Savings-FeaturedImg_FeaturedImg.png
 thumb_image_alt: Episode 9 placeholder image
-image: images/post-9.jpg
+image: images/BBrewing Up Energy Savings-FeaturedImg_FeaturedImg.png
 image_alt: Episode 9 placeholder image
 image_position: left
 episode_embed_html: >-
